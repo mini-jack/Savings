@@ -1,0 +1,23 @@
+[
+	{
+        "id": "2364BB2B-51AA-429F-8C0A-1CD734C9A153",
+		"name": "HSBC rub account",
+		"amount": 0,
+        "currency": "RUB",
+        "date": "Sun, 17 Jan 2021 22:13:37 +0000"
+	},
+    {
+        "id": "2364BB2B-51AA-429F-8C0M-1CD734C9A157",
+        "name": "HSB;lkjcount",
+        "amount": 1,
+        "currency": "USD",
+        "date": "Sun, 17 Jan 2021 22:13:37 +0000"
+    },
+	{
+        "id": "FCF2CB64-EB42-4175-9023-0E871C1A0258",
+        "name": "HSBC usd account",
+        "amount": 1,
+        "currency": "EUR",
+        "date": "Sun, 17 Jan 2021 22:13:37 +0000"
+	}
+]

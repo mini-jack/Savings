@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3BF74B58-DC19-4223-8355-6972635E24AB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E81F793-885F-437D-9B2D-0172ECCC6659"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Savings/ResultSumView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ResultSumView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "8E81F793-885F-437D-9B2D-0172ECCC6659 - 3c42bd5e14fb540"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Savings.ResultSumView.savings : Savings.Savings"
+                  moduleName = "Savings"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/katou/Documents/IOS/Savings/Savings/ResultSumView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "8E81F793-885F-437D-9B2D-0172ECCC6659 - be6c958da6c0d42a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Savings.ResultSumView.savings.getter : Savings.Savings"
+                  moduleName = "Savings"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/katou/Documents/IOS/Savings/Savings/ResultSumView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "8E81F793-885F-437D-9B2D-0172ECCC6659 - 7a91041d959dc83e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Savings.ResultSumView.savings.setter : Savings.Savings"
+                  moduleName = "Savings"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/katou/Documents/IOS/Savings/Savings/ResultSumView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "74">
+               </Location>
+               <Location
+                  uuid = "8E81F793-885F-437D-9B2D-0172ECCC6659 - c36484f13b84bf70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Savings.ResultSumView.savings.modify : Savings.Savings"
+                  moduleName = "Savings"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/katou/Documents/IOS/Savings/Savings/ResultSumView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "14">
+               </Location>
+               <Location
+                  uuid = "8E81F793-885F-437D-9B2D-0172ECCC6659 - 850c0eaed7f5d73e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Savings.ResultSumView.savings.modify : Savings.Savings with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Savings"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/katou/Documents/IOS/Savings/Savings/ResultSumView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "8E81F793-885F-437D-9B2D-0172ECCC6659 - 2cad4ffbf3526de2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Savings.ResultSumView.$savings.getter : SwiftUI.ObservedObject&lt;Savings.Savings&gt;.Wrapper"
+                  moduleName = "Savings"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/katou/Documents/IOS/Savings/Savings/ResultSumView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "98">
+               </Location>
+               <Location
+                  uuid = "8E81F793-885F-437D-9B2D-0172ECCC6659 - c66bb77b22ff9127"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Savings.ResultSumView.init() -&gt; Savings.ResultSumView"
+                  moduleName = "Savings"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/katou/Documents/IOS/Savings/Savings/ResultSumView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "94">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
